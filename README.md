@@ -1,9 +1,17 @@
 # It's a Me
 
+![Minecraft 26.2](https://img.shields.io/badge/Minecraft-26.2-3cb043) ![Fabric](https://img.shields.io/badge/Fabric-API%200.155.2%2B26.2-3675b2) ![License: CC0--1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey)
+
 A [Fabric](https://fabricmc.net/) mod for Minecraft that shows an animated banner with a player's
 avatar whenever someone joins or leaves the multiplayer server you're on.
 
+> **Note:** this release targets Minecraft **26.2** specifically (see [Requirements](#requirements) below) - it will not load on other versions.
+
 ![icon](src/main/resources/assets/itsame/icon.png)
+
+## Screenshots
+
+![Settings screen](docs/itsame_settings.jpg)
 
 ## Features
 
