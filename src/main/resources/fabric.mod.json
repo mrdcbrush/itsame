@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "itsame",
+	"version": "${version}",
+	"name": "It's a Me",
+	"description": "Shows an animated banner with the player's avatar when someone joins or leaves a multiplayer server.",
+	"authors": [
+		"David Brush"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/itsame/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.itsame.ItsAMeClient"
+		],
+		"modmenu": [
+			"com.itsame.ItsAMeModMenuIntegration"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}
