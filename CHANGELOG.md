@@ -4,6 +4,12 @@ All notable changes to this project are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [1.0.1] - 2026-10-12
+
+### Changed
+- Updated for Minecraft 26.3 (Fabric Loader 0.19.5, Fabric API 0.162.0+26.3, ModMenu 21.0.0).
+- Adapted the keybind registration to the renamed `InputConstants.Type.KEYBOARD`.
+
 ## [1.0.0] - 2026-07-26
 
 Initial release.

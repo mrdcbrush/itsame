@@ -52,7 +52,7 @@ public final class ItsAMeClient implements ClientModInitializer {
 
 		KeyMapping openConfigKey = KeyMappingHelper.registerKeyMapping(new KeyMapping(
 				"key.itsame.open_config",
-				InputConstants.Type.KEYSYM,
+				InputConstants.Type.KEYBOARD,
 				InputConstants.UNKNOWN.getValue(),
 				KeyMapping.Category.MISC));
 

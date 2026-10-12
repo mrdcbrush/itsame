@@ -1,11 +1,11 @@
 # It's a Me
 
-![Minecraft 26.2](https://img.shields.io/badge/Minecraft-26.2-3cb043) ![Fabric](https://img.shields.io/badge/Fabric-API%200.155.2%2B26.2-3675b2) ![License: CC0--1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey)
+![Minecraft 26.3](https://img.shields.io/badge/Minecraft-26.3-3cb043) ![Fabric](https://img.shields.io/badge/Fabric-API%200.162.0%2B26.3-3675b2) ![License: CC0--1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey)
 
 A [Fabric](https://fabricmc.net/) mod for Minecraft that shows an animated banner with a player's
 avatar whenever someone joins or leaves the multiplayer server you're on.
 
-> **Note:** this release targets Minecraft **26.2** specifically (see [Requirements](#requirements) below) - it will not load on other versions.
+> **Note:** this release targets Minecraft **26.3** specifically (see [Requirements](#requirements) below) - it will not load on other versions.
 
 ![icon](src/main/resources/assets/itsame/icon.png)
 
@@ -30,16 +30,16 @@ avatar whenever someone joins or leaves the multiplayer server you're on.
 
 ## Requirements
 
-- Minecraft **26.2**
+- Minecraft **26.3**
 - [Fabric Loader](https://fabricmc.net/use/) **0.19.3+**
-- [Fabric API](https://modrinth.com/mod/fabric-api) **0.155.2+26.2**
+- [Fabric API](https://modrinth.com/mod/fabric-api) **0.162.0+26.3**
 - Java 25+
 
 ## Installation
 
-1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft 26.2.
+1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft 26.3.
 2. Download the latest jar from the [Releases](../../releases) page.
-3. Download [Fabric API](https://modrinth.com/mod/fabric-api) for 26.2.
+3. Download [Fabric API](https://modrinth.com/mod/fabric-api) for 26.3.
 4. Drop both jars in your `mods` folder.
 
 ## Configuration
